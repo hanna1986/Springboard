@@ -1,4 +1,4 @@
 # Springboard
 
-GO to Capstone_project folder to find code,
-Training_data and Testing_data
+To see data for the Capstone project
+go to https://www.kaggle.com/c/ashrae-energy-prediction/data
